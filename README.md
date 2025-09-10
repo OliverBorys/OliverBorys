@@ -13,7 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OliverBorys)](https://github.com/OliverBorys/github-readme-stats)
+<a href="https://github.com/OliverBorys/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=OliverBorys" />
+</a>
+<a href="https://github.com/OliverBorys/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliverBorys&layout=donut&langs_count=8&card_width=320" />
+</a>
+
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p>
@@ -28,7 +34,5 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="45" height="45"/>
-
 </p>
 
-![Snake animation](https://github.com/OliverBorys/OliverBorys/blob/output/github-contribution-grid-snake.svg)
